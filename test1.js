@@ -1,5 +1,0 @@
-console.log("hello" + "there")
-console.log("bye")
-console.log("see" + "you" + "later")
-console.log("Another change")
-console.log("One more change")
