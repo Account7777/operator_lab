@@ -22,4 +22,4 @@ mydataset = [
         "is_active": False
     }
 ]
-pd.DataFrame(mydataset).to_csv('mydataset.csv', index=False)
+pd.DataFrame(mydataset).to_csv('py_result.csv', index=False)
